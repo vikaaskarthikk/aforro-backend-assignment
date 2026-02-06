@@ -1,0 +1,9 @@
+Django==5.0.7
+djangorestframework==3.15.2
+psycopg2-binary
+redis==5.0.8
+celery==5.4.0
+django-cors-headers==4.4.0
+faker==30.2.0
+drf-yasg==1.21.7
+gunicorn==23.0.0
